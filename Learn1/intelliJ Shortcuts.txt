@@ -1,0 +1,77 @@
+Basic IntelliJ IDEA key
+
+
+VERY HANDY....
+
+psvm + Tab - public static void main(String args[])
+
+sout + Tab - System.out.println("")
+
+soutv + Tab - ystem.out.println("value = " + value)
+
+
+GOLD ONES...
+1. (Un)Comment line: Cmd + /
+2. (Un)Comment selection:  Shift + control + /
+3. Documentation comment block: /** + Enter
+4. Delete line: Cmd + Y
+5. Argument documentation for method calls: Cmd + P
+              Useful when you need to remember argument options when calling a method, this shortcut will pull up a callout with the information you need. It is even capable of learning from your documentation blocks.
+
+6. Incremental selection: Cmd + W
+7. Reformat code: Option + Cmd + L
+8. Cycle through the history of most recent changes: Cmd + Shift + Backspace
+9. Paste from five previous copies - Cmd + Shift + V
+10. Find members in current file: Cmd + F12
+11. Find members in current project: Cmd + Alt + Shift + N
+12. Show recently changed files: Cmd + Shift + E
+
+
+
+Alt + 1 - open / close the project tool window
+
+Alt + Insert - new / create
+
+Control + Shift + F12 – maximize the editor
+
+Alt + F1 - open the current file in a tool window
+
+Tab - expand live template
+
+Control + Z - undo
+
+Control + F1 - display error message
+
+Alt + Enter - intentions and quickfixes pop-up menu
+
+Alt + Enter + Right - options for a particular intention or quickfix
+
+Control + Space - code completion
+
+Control + Shift + Space - smart code completion
+
+Control + Shift + Enter - complete statement
+
+Control + B - go to definition
+
+Control + Shift + I - quick definition preview
+
+Control + Q - view javadoc
+
+Control + Alt + U - UML class diagram popup
+
+Control + W - expand block selection
+
+Control + Shift + W - shrink block selection
+
+Control + Alt + V - introduce variable
+
+Control + Alt + M - extract method
+
+Control + Alt + N - Inline
+
+Control + Alt + F - introduce field
+
+Control + Alt + C - introduce constant
+
+Control + Alt + P - extract parameter
