@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0eae7b51-5ef6-4d95-86b5-6d68b7b1f2c8" name="Default" comment="String Compare and conversion">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn1/src/StringsPlay/CompareStrings.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn1/src/StringsPlay/ConversionInString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn1/intelliJ Shortcuts.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="0eae7b51-5ef6-4d95-86b5-6d68b7b1f2c8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SelfLearn.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0eae7b51-5ef6-4d95-86b5-6d68b7b1f2c8" time="1398205188104" ignored="false" />
+    <file path="/Dummy.txt" changelist="0eae7b51-5ef6-4d95-86b5-6d68b7b1f2c8" time="1398205271176" ignored="false" />
     <file path="/ChildClass.java" changelist="0eae7b51-5ef6-4d95-86b5-6d68b7b1f2c8" time="1398167848548" ignored="false" />
     <file path="/ParentClass.java" changelist="0eae7b51-5ef6-4d95-86b5-6d68b7b1f2c8" time="1398164237555" ignored="false" />
     <file path="/MyInterface.java" changelist="0eae7b51-5ef6-4d95-86b5-6d68b7b1f2c8" time="1398165510704" ignored="false" />
@@ -99,7 +95,7 @@
       <file leaf-file-name="CompareStrings.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Learn1/src/StringsPlay/CompareStrings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="22" selection-end="22" vertical-scroll-proportion="0.06465517">
+            <state line="15" column="58" selection-start="321" selection-end="321" vertical-scroll-proportion="0.31914893">
               <folding />
             </state>
           </provider>
@@ -489,6 +485,11 @@
       <created>1398162412809</created>
       <updated>1398162412809</updated>
     </task>
+    <task id="LOCAL-00001" summary="String Compare and conversion">
+      <created>1398205281607</created>
+      <updated>1398205281607</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -513,9 +514,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="581" y="22" width="859" height="878" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32984716" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287858" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -526,7 +527,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3287858" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287858" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32984716" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -696,7 +697,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Learn1/src/StringsPlay/CompareStrings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="22" selection-end="22" vertical-scroll-proportion="0.06465517">
+        <state line="15" column="58" selection-start="321" selection-end="321" vertical-scroll-proportion="0.31914893">
           <folding />
         </state>
       </provider>
